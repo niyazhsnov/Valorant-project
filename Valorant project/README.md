@@ -1,0 +1,1 @@
+Planım posterlərin istifadəçi tərəfindən daxil edilə bildiyi bir formada hazırlamaq idi.Ancaq hər nə qədər çabalasam da daxil olunan məlumatları uğurla karta otuzdura bilmədim.Lakin bu şəkildə də pis alınmadı:)
