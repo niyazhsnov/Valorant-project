@@ -1,1 +1,1 @@
-Planım posterlərin istifadəçi tərəfindən daxil edilə bildiyi bir formada hazırlamaq idi.Ancaq hər nə qədər çabalasam da daxil olunan məlumatları uğurla karta otuzdura bilmədim.Lakin bu şəkildə də pis alınmadı:)
+Planım posterlərin istifadəçi tərəfindən daxil edilə bildiyi bir formada hazırlamaq idi.Ancaq bootstrap'ın modalını koduma entegre edəndə error verir.Özüm də modal yazmağı bilmədiyimə görə bu formada saxladım.Lakin bu şəkildə də pis alınmadı:)
